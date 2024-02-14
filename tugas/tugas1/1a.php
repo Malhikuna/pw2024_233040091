@@ -2,7 +2,7 @@
 $topi = "Topi";
 $bundar = "Bundar";
 
-echo "<h1><i>" . '"' . "$topi saya $bundar, $bundar $topi saya" . '"' . "</i></h1>"
+echo "<h2><i>" . '"' . "$topi saya $bundar, $bundar $topi saya" . '"' . "</i></h2>"
 
 ?>
  
