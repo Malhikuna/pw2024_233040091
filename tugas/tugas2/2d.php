@@ -43,10 +43,10 @@
     </style>
 </head>
 <body>
-    <?php for ($i = 10; $i >= 1; $i--) : ?>
+    <?php for ($i = 1; $i <= 5; $i++) : ?>
         <?php if($i % 2 == 0) : ?>
             <div class="row">
-                <?php for ($j = 1; $j <= $i; $j++) : ?>
+                <?php for ($j = 1; $j <= 5; $j++) : ?>
                     <?php if($j % 2 == 0) : ?>
                         <div class="kotak1"></div>
                     <?php else : ?>
@@ -59,7 +59,7 @@
             </div>
         <?php else : ?>
             <div class="row">
-                <?php for ($j = 1; $j <= $i; $j++) : ?>
+                <?php for ($j = 1; $j <= 5; $j++) : ?>
                     <?php if($j % 2 == 0) : ?>
                         <div class="kotak2"></div>
                     <?php else : ?>
