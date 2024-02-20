@@ -26,19 +26,19 @@
 </head>
 <body>
 
-    <div class="row row-1">        
-        <div class="kotak kotak1"><h2>1</h2></div>
+    <div class="row">        
+        <div class="kotak"><h2>1</h2></div>
     </div>
     
-    <div class="row row-2">
-        <div class="kotak kotak2"><h2>2</h2></div>
-        <div class="kotak kotak2"><h2>2</h2></div><br>
+    <div class="row">
+        <div class="kotak"><h2>2</h2></div>
+        <div class="kotak"><h2>2</h2></div><br>
     </div>
 
-    <div class="row row-3">
-        <div class="kotak kotak3"><h2>3</h2></div>
-        <div class="kotak kotak3"><h2>3</h2></div>
-        <div class="kotak kotak3"><h2>3</h2></div>
+    <div class="row">
+        <div class="kotak"><h2>3</h2></div>
+        <div class="kotak"><h2>3</h2></div>
+        <div class="kotak"><h2>3</h2></div>
     </div>
 </body>
 </html>
