@@ -1,5 +1,7 @@
 <?php
+
 echo "<h4>Menghitung luas lingkaran</h4>";
+
 function hitungLuasLingkaran($r) {
     echo "Jari-jari = $r <br>";
     $l = ($r * $r) * 3.14;
@@ -9,7 +11,9 @@ function hitungLuasLingkaran($r) {
 hitungLuasLingkaran(10);
 
 echo "<hr />";
+
 echo "<h4>Menghitung keliling lingkaran</h4>";
+
 function hitungKelilingLingkaran($r) {
     echo "Jari-jari = $r <br>";
     $c = 2 * 3.14 * $r;
